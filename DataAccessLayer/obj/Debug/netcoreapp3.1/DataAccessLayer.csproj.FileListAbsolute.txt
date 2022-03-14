@@ -1,0 +1,12 @@
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.json
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\DataAccessLayer\obj\Debug\netcoreapp3.1\DataAccessLayer.genruntimeconfig.cache

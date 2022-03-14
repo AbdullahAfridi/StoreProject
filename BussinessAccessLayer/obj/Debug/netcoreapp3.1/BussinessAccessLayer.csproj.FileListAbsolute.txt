@@ -1,0 +1,9 @@
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\bin\Debug\netcoreapp3.1\BussinessAccessLayer.deps.json
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\bin\Debug\netcoreapp3.1\BussinessAccessLayer.dll
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\bin\Debug\netcoreapp3.1\BussinessAccessLayer.pdb
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\obj\Debug\netcoreapp3.1\BussinessAccessLayer.csprojAssemblyReference.cache
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\obj\Debug\netcoreapp3.1\BussinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\obj\Debug\netcoreapp3.1\BussinessAccessLayer.AssemblyInfo.cs
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\obj\Debug\netcoreapp3.1\BussinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\obj\Debug\netcoreapp3.1\BussinessAccessLayer.dll
+C:\Users\Abdullah Daulatzai\source\repos\StoreCURD\BussinessAccessLayer\obj\Debug\netcoreapp3.1\BussinessAccessLayer.pdb
